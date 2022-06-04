@@ -1,0 +1,21 @@
+{
+  "name": "license-updater",
+  "version": "1.0.0",
+  "description": "A tool for updating the copywrite in license files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "license-updater"
+  },
+  "keywords": [
+    "license"
+  ],
+  "author": "Matthew Nobes",
+  "license": "MIT",
+  "bin": {
+    "license-updater": "bin/index.js"
+  }
+}
